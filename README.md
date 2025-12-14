@@ -10,7 +10,7 @@ A robust RESTful API built with Node.js, Express, and MongoDB for managing a swe
 ## 🌐 Live Demo
 
 - **Backend API:** [https://incubyte-server.onrender.com](https://incubyte-server.onrender.com)
-- **Frontend Application:** [https://incubyte-client.vercel.app](https://incubyte-client.vercel.app)
+- **Frontend Application:** [https://incubyte-client-iopp.vercel.app](https://incubyte-client-iopp.vercel.app)
 - **API Documentation:** [https://incubyte-server.onrender.com/api/sweets](https://incubyte-server.onrender.com/api/sweets)
 
 ## 📋 Table of Contents

@@ -11,7 +11,7 @@ const corsOptions = {
     origin: [
         'http://localhost:3000',
         'http://localhost:3001',
-        'https://incubyte-client.vercel.app', // Production frontend URL
+        'https://incubyte-client-iopp.vercel.app', // Production frontend URL
         /\.vercel\.app$/, // Allow all Vercel preview deployments
         /\.netlify\.app$/, // Allow all Netlify preview deployments
     ],
