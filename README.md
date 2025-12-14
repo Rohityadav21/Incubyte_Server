@@ -583,9 +583,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Anant Kapoor**
+**Rohit Yadav**
 - GitHub: [@Rohityadav21](https://github.com/Rohityadav21)
-- Email: anant.kapooor@gmail.com
+- Email: rohityadav36001@gmail.com
 
 ## 🙏 Acknowledgments
 
