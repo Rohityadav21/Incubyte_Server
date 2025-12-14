@@ -9,9 +9,9 @@ A robust RESTful API built with Node.js, Express, and MongoDB for managing a swe
 
 ## 🌐 Live Demo
 
-- **Backend API:** [https://incubyte-backend-jf38.onrender.com](https://incubyte-backend-jf38.onrender.com)
-- **Frontend Application:** [https://incubyte-frontend-lake.vercel.app](https://incubyte-frontend-lake.vercel.app)
-- **API Documentation:** [https://incubyte-backend-jf38.onrender.com/api/sweets](https://incubyte-backend-jf38.onrender.com/api/sweets)
+- **Backend API:** [https://incubyte-server.onrender.com](https://incubyte-server.onrender.com)
+- **Frontend Application:** [https://incubyte-client.vercel.app](https://incubyte-client.vercel.app)
+- **API Documentation:** [https://incubyte-server.onrender.com/api/sweets](https://incubyte-server.onrender.com/api/sweets)
 
 ## 📋 Table of Contents
 
@@ -144,7 +144,7 @@ npm run test:coverage
 
 ### Base URL
 - **Development:** `http://localhost:5000/api`
-- **Production:** `https://incubyte-backend-jf38.onrender.com/api`
+- **Production:** `https://incubyte-server.onrender.com/api`
 
 ### Authentication Endpoints
 
@@ -473,7 +473,7 @@ npm test -- --watch
 
 ### Deployed On
 - **Platform:** Render
-- **URL:** https://incubyte-backend-jf38.onrender.com
+- **URL:** https://incubyte-server.onrender.com
 - **Database:** MongoDB Atlas
 
 ### Deployment Steps
@@ -584,7 +584,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Anant Kapoor**
-- GitHub: [@anantk13](https://github.com/anantk13)
+- GitHub: [@Rohityadav21](https://github.com/Rohityadav21)
 - Email: anant.kapooor@gmail.com
 
 ## 🙏 Acknowledgments
